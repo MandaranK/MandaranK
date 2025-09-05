@@ -26,11 +26,8 @@
 <br>
 
 <img src="./icons/pytorch.png" alt="pytorch" width="50rem" height="50rem" />
-<img src="./icons/tensorflow.png" alt="tensorflow" width="50rem" height="50rem" />
-<img src="./icons/sql.png" alt="sql" width="50rem" height="50rem" />
 <img src="./icons/nodejs.png" alt="node.js" width="50rem" height="50rem" />
 <img src="./icons/logo-react-icon.png" alt="react.js" width="50rem" height="50rem" />
 <img src="./icons/azure.png" alt="azure" width="50rem" height="50rem" />
-<img src="./icons/kubernetes.png" alt="kubernetes" width="50rem" height="50rem" />
 
 </div>
