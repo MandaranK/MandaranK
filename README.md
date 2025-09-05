@@ -19,9 +19,9 @@
 <img src="./icons/python.png" alt="python" width="50rem" height="50rem" />
 <img src="./icons/cpp.png" alt="C++" width="50rem" height="50rem" />
 <img src="./icons/matlab.png" alt="C++" width="50rem" height="50rem" />
+<img src="./icons/c.png" alt="c" width="50rem" height="50rem" />
 <img src="./icons/systemverilog.png" alt="java" width="50rem" height="50rem" />
 <img src="./icons/vhdl.png" alt="java" width="50rem" height="50rem" />
-<img src="./icons/c.png" alt="c" width="50rem" height="50rem" />
 <img src="./icons/java.png" alt="C++" width="50rem" height="50rem" />
 <img src="./icons/arm.png" alt="java" width="50rem" height="50rem" />
 <img src="./icons/JavaScript-logo.png" alt="javascript" width="50rem" height="50rem" />
