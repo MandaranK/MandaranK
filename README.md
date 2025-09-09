@@ -6,7 +6,7 @@
 
 <div align='center'>
 
-### I am an Electrical Engineering student at the University of Waterloo. 📚
+### I am a 3rd year Electrical Engineering student at the University of Waterloo. 📚
 
 </div>
 
@@ -22,6 +22,7 @@
 <img src="./icons/c.png" alt="c" width="50rem" height="50rem" />
 <img src="./icons/systemverilog.png" alt="SystemVerilog" width="50rem" height="50rem" />
 <img src="./icons/vhdl.png" alt="VHDL" width="50rem" height="50rem" />
+<img src="./icons/riscv.png" alt="RISC-V" width="50rem" height="50rem" />
 <img src="./icons/java.png" alt="Java" width="50rem" height="50rem" />
 <img src="./icons/arm.png" alt="ARM" width="50rem" height="50rem" />
 <img src="./icons/JavaScript-logo.png" alt="javascript" width="50rem" height="50rem" />
